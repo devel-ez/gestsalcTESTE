@@ -135,7 +135,7 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="?acao=processos_origem_todos" class="nav-link">
+                                    <a href="home.php?acao=processos_origem_todos" class="nav-link load-content">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Todos</p>
                                     </a>
@@ -202,7 +202,7 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="home.php?acao=contratos_todos" class="nav-link">
+                                    <a href="home.php?acao=contratos_todos" class="nav-link load-content">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Todos</p>
                                     </a>
